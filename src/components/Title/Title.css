@@ -1,0 +1,10 @@
+header{
+    font-size: 3.5rem;
+    letter-spacing: 3.5px;
+    color: white;
+}
+
+.header{
+    position: absolute;
+    top: 15rem;
+}

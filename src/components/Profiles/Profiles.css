@@ -1,0 +1,24 @@
+
+.container{
+    display: flex;
+    flex-direction:row;
+    position: absolute;
+    top: 10rem;
+    gap: 2rem;
+}
+
+.icon{
+    padding-right: 3rem;
+}
+
+.profile{
+    height: 10rem;
+    border-radius: .5rem;
+}
+
+.name{
+    font-size: 2rem;
+    padding-top: 2rem;
+    color: gray;
+}
+
